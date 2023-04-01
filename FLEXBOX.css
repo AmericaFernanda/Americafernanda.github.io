@@ -1,0 +1,26 @@
+.container {
+	display: flex;
+	background-color: brown;
+	flex-direction: column;
+	align-content: flex-start;
+}
+	
+	
+.item-1, .item-3, .item-5, .item-7, .item-9, .item-11, .item-13, .item-15, .item-17, .item-19 {
+	background: darkslategrey;
+	padding: 10px;
+}
+.item-2, .item-4, .item-6, .item-8, .item-10, .item-12, .item-14, .item-16, .item-18, .item-20 {
+	background: lightyellow;
+	padding: 5px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
